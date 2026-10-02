@@ -48,9 +48,9 @@ The project includes a default account for testing:
 
 
 
-\* \*\*Username:\*\* `User1`
+\* \*\*Username:\*\* `A101`
 
-\* \*\*Password:\*\* `1111`
+\* \*\*Password:\*\* `1234`
 
 
 
